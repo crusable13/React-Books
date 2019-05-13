@@ -58,6 +58,7 @@ class Home extends Component {
 
   render() {
     return (
+      //Renders container
       <Container>
         <Row>
           <Col size="md-12">
